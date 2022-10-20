@@ -1,3 +1,4 @@
+//COMMENT FOR GITHUB DEMO
 #include "snakey.h"
 /*
 class Game{
